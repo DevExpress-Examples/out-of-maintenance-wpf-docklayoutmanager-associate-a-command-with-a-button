@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/DXDockingCommand/Window1.xaml) (VB: [Window1.xaml](./VB/DXDockingCommand/Window1.xaml))
+<!-- default file list end -->
 # How to: Use Built-In DXDocking Commands in Custom Buttons
 
 
