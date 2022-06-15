@@ -18,7 +18,7 @@ The [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.D
 | [Hide](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockControllerCommand.Hide) | Enables the auto-hide functionality for the item/panel and hides it at a corresponding edge of the [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager) container. |
 | [Restore](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockControllerCommand.Restore) | Restores a closed (hidden) panel at its previous dock position. |
 
-The following code sample associates the [DockControllerCommand.Close](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockControllerCommand.Close) command with a button. When a user clicks the button, the active dock panel is closed.
+This example associates the [DockControllerCommand.Close](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockControllerCommand.Close) command with a button. When a user clicks the button, the active dock panel is closed.
 
 ![image](https://user-images.githubusercontent.com/12169834/173897637-5f73cbb6-cc5f-43db-a8a6-4a5126d4eb3f.png)
 
